@@ -3,17 +3,12 @@
 
 <p align="center">
   <a href="https://jonathankbl.github.io/gh-profile-readme-generator">
-    <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
+    <img alt="GitHub Profile Readme Generator" src="https://avatars.githubusercontent.com/u/130989749?v=4" width="60" />
   </a>
 </p>
 <h1 align="center">
   - 👋 Hi, I’m @jonathankbl
 - 👀 I’m interested in PHP - Symfony - Flutter
-
-<!---
-jonathankbl/jonathankbl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 </h1>
 
 <p align="center">
